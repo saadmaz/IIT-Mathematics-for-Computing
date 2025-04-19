@@ -4,7 +4,7 @@ This repository contains comprehensive materials for the Mathematics for Computi
 
 ## 📚 Repository Structure
 
-Mathematics-for-Computing/
+/Mathematics-for-Computing/
 ├── Lecture-Notes/             # Organized lecture materials by week
 │   ├── Week-01-Logic/
 │   ├── Week-02-Algorithms/
