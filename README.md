@@ -5,19 +5,33 @@ This repository contains comprehensive materials for the Mathematics for Computi
 ## 📚 Repository Structure
 
 /Mathematics-for-Computing/
+
 ├── Lecture-Notes/             # Organized lecture materials by week
+
 │   ├── Week-01-Logic/
+
 │   ├── Week-02-Algorithms/
+
 │   ├── Week-03-Set-Theory/
+
 │   ├── Week-04-Relations-Functions-Graphs/
+
 │   ├── Week-05-Proof-Techniques/
+
 │   ├── Week-07-Matrices/
+
 │   ├── Week-08-Matrices-Part2/
+
 │   ├── Week-09-Probability/
+
 │   └── Week-10-Statistics/
+
 ├── Supplementary-Materials/   # Additional resources and reading materials
+
 ├── Tutorial-Exercises/        # Weekly practice problems and solutions
+
 ├── Exam-Preparation/          # Past papers and revision guides
+
 └── Reference-Guides/          # Quick cheat sheets for key concepts
 
 ## 📋 Weekly Content
